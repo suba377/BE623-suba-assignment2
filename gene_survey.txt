@@ -1,0 +1,5 @@
+Gene: TP53
+Organism: Homo sapiens
+NCBI Gene ID: 7157
+UniProt ID: P04637
+PDB ID: 1TUP
